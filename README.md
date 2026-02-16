@@ -2,7 +2,7 @@
 
 3 CSV Files
 Tables must have at least one common column with same column name and same data type
-Books.csv Customers.csv Orders.csv
+Books.csv, Customers.csv, Orders.csv
 
 Basic Queries
 1) Retrieve all books in the "Fiction" genre
